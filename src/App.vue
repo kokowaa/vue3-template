@@ -1,7 +1,5 @@
 <script setup lang="ts">
 import { NConfigProvider, zhCN, dateZhCN } from "naive-ui"
-
-import Home from "./pages/home/index.vue"
 </script>
 
 <template>

@@ -12,7 +12,7 @@ export enum RequestEnum {
   /**  */
 }
 
-/** 
+/**
  * @description 响应配置枚举
  */
 export enum ResponseEnum {

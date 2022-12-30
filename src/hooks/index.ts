@@ -2,7 +2,4 @@
 import useEvent from "./useEvent";
 import useHttp from "./useHttp";
 
-export {
-  useEvent,
-  useHttp
-}
+export { useEvent, useHttp };
