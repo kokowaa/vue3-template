@@ -10,3 +10,14 @@ export interface Result {
 export interface ResultData<T = any> extends Result {
   data: T;
 }
+
+// * 登录模块
+export namespace Login {
+  export interface ReqLogin {
+    username: string;
+    password: string;
+  }
+  export interface ResLogin {
+    token: string;
+  }
+}
